@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0003"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "N", "purpose": "commenting", "created": "2021-02-17T14:27:19.507Z", "creator": {"id": "julsraemy", "name": "Julien A. Raemy"}}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0003", "selector": {"type": "SvgSelector", "value": "<svg><polygon points=\"342.2377624511719,540.4823608398438 570.4195556640625,541.3914184570312 507.6922912597656,765.9368896484375 337.6922912597656,752.300537109375\"></polygon></svg>"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2002-04-18/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/c7ae1f3e-4e29-4ad7-a606-c5632e6f3e05.json"}
