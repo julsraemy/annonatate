@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00240-001-ff0093-001-001_0010"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Revised Oct. 16. 9. 24", "purpose": "commenting", "created": "2021-02-23T11:49:56.510Z", "creator": {"id": "julsraemy", "name": "Julien A. Raemy"}, "modified": "2021-02-23T11:50:22.694Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/mc00240-001-ff0093-001-001_0010", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:1182.4415283203125,4985.90771484375,1133.4227294921875,149.36572265625"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/mc00240-001-ff0093-001-001_0010/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/2cedcc0e-e4a2-4d79-bb70-b1e203aae494.json"}
