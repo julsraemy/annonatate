@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Gateway", "purpose": "commenting", "created": "2021-02-24T16:23:04.286Z", "creator": {"id": "julsraemy", "name": "Julien A. Raemy"}, "modified": "2021-02-24T16:23:06.149Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001", "selector": {"type": "SvgSelector", "value": "<svg><polygon points=\"3786.54638671875,928.8621215820312 4081.810791015625,879.6514282226562 4094.11328125,961.6692504882812 3811.15185546875,1014.9808959960938 3819.353515625,994.4764404296875 3815.252685546875,990.3755493164062\"></polygon></svg>"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/43c8d78f-5a66-40c3-a0fa-c3c1d85421f2.json"}
