@@ -1,0 +1,5 @@
+---
+canvas: "https://purl.stanford.edu/wh234bz9013/iiif/canvas/wh234bz9013_1"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Um Stellat Cum Subiecto Terrestri", "purpose": "commenting", "created": "2021-02-25T09:38:36.909Z", "creator": {"id": "julsraemy", "name": "Julien A. Raemy"}, "modified": "2021-02-25T09:38:45.033Z"}], "target": {"source": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/wh234bz9013_1", "selector": {"type": "SvgSelector", "value": "<svg><polygon points=\"7019.45361328125,1121.194091796875 7852.80517578125,886.3404541015625 7857.85595703125,878.7645263671875 8062.40576171875,1371.199462890625 7196.22509765625,1590.9012451171875 7019.45361328125,1118.668701171875 7021.97900390625,1118.668701171875\"></polygon></svg>"}, "dcterms:isPartOf": {"id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/a24ae859-70bf-4936-96d5-1f26434014e8.json"}
