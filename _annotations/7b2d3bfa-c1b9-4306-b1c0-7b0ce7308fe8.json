@@ -1,0 +1,107 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00240-001-ff0093-001-001_0010"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A concrete user-generated annotation",
+            "purpose": "commenting",
+            "creator": {
+                "id": "julsraemy",
+                "name": "Julien A. Raemy"
+            },
+            "created": "2023-02-21T09:21:49.145Z",
+            "modified": "2023-02-21T09:21:58.459Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "testing",
+            "purpose": "tagging",
+            "creator": {
+                "id": "julsraemy",
+                "name": "Julien A. Raemy"
+            },
+            "created": "2023-02-21T09:22:05.965Z",
+            "modified": "2023-02-21T09:22:06.681Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.5448158,
+                            47.3742226
+                        ],
+                        [
+                            8.5449041,
+                            47.3741004
+                        ],
+                        [
+                            8.5450115,
+                            47.3739623
+                        ],
+                        [
+                            8.5450289,
+                            47.3739343
+                        ],
+                        [
+                            8.54512,
+                            47.3739682
+                        ],
+                        [
+                            8.5451021,
+                            47.3739947
+                        ],
+                        [
+                            8.5450891,
+                            47.3740107
+                        ],
+                        [
+                            8.5452379,
+                            47.3740654
+                        ],
+                        [
+                            8.5452187,
+                            47.3740918
+                        ],
+                        [
+                            8.5450556,
+                            47.374308
+                        ],
+                        [
+                            8.5448158,
+                            47.3742226
+                        ]
+                    ]
+                ]
+            },
+            "source": "https://www.openstreetmap.org/way/33806633",
+            "creator": {
+                "id": "julsraemy",
+                "name": "Julien A. Raemy"
+            },
+            "created": "2023-02-21T09:22:15.912Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/mc00240-001-ff0093-001-001_0010",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3359.16455078125,374.6351318359375,628.41259765625,317.824951171875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/mc00240-001-ff0093-001-001_0010/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7b2d3bfa-c1b9-4306-b1c0-7b0ce7308fe8.json",
+    "motivation": "commenting"
+}
