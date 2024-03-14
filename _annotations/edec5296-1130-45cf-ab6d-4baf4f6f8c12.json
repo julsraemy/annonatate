@@ -1,0 +1,38 @@
+---
+canvas: "https://iiif.participatory-archives.ch/SGV_12N_10816/canvas/p1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Kirche",
+            "purpose": "commenting",
+            "creator": {
+                "id": "julsraemy",
+                "name": "Julien A. Raemy"
+            },
+            "created": "2024-03-14T12:59:59.589Z",
+            "modified": "2024-03-14T13:00:00.488Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://julsraemy.ch/annonatate/manifests/iiif.participatory-archives.ch/SGV_12N_10816/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.participatory-archives.ch/SGV_12N_10816/canvas/p1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1492.3092041015625,1661.1226806640625,1599.2813720703125,1388.8094482421875"
+        }
+    },
+    "id": "edec5296-1130-45cf-ab6d-4baf4f6f8c12.json",
+    "motivation": "commenting"
+}
