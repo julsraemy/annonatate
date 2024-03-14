@@ -1,0 +1,38 @@
+---
+canvas: "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Some annotations",
+            "purpose": "commenting",
+            "creator": {
+                "id": "julsraemy",
+                "name": "Julien A. Raemy"
+            },
+            "created": "2024-03-14T12:47:24.809Z",
+            "modified": "2024-03-14T12:47:27.643Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=603.326416015625,686.7109375,1102.6474609375,993.2947998046875"
+        }
+    },
+    "id": "3fa9ca95-b723-454f-b66d-ce3823226437.json",
+    "motivation": "commenting"
+}
