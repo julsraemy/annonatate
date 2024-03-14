@@ -1,0 +1,218 @@
+---
+added: '2024-03-14 12:58:46.563921'
+thumbnail: https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10816.jp2/full/max/0/default.jpg
+title:
+- en:
+  - '[Blick auf das Dorf]'
+user: Julien A. Raemy
+
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://julsraemy.ch/annonatate/manifests/iiif.participatory-archives.ch/SGV_12N_10816/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "[Blick auf das Dorf]"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "de": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "de": [
+          "[Blick auf das Dorf]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Art Medium"
+        ]
+      },
+      "value": {
+        "de": [
+          "schwarz/weiss"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Size"
+        ]
+      },
+      "value": {
+        "de": [
+          "6 x 6 cm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Ort"
+        ]
+      },
+      "value": {
+        "de": [
+          "Conters"
+        ]
+      }
+    },
+    {
+      "label": {
+        "de": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "de": [
+          "1942"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "de": [
+        "Copyright"
+      ]
+    },
+    "value": {
+      "de": [
+        "Schweizerische Gesellschaft f\u00fcr Volkskunde (SGV)"
+      ],
+      "fr": [
+        "Socit\u00e9 Suisse des Traditions populaires (SSTP)"
+      ],
+      "it": [
+        "Societ\u00e0 Svizzera per le Tradizioni Popolari (SSTP)"
+      ],
+      "en": [
+        "Swiss Society for Folklore Studies (SSFS)"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://d-nb.info/gnd/1186091584",
+      "type": "Agent",
+      "label": {
+        "de": [
+          "Schweizerische Gesellschaft f\u00fcr Volkskunde. Fotoarchiv"
+        ]
+      },
+      "logo": [
+        {
+          "id": "https://sipi.participatory-archives.ch/SGV_logo.jp2/full/max/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 149,
+          "width": 500,
+          "service": [
+            {
+              "id": "https://sipi.participatory-archives.ch/SGV_logo.jp2",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://archiv.sgv-sstp.ch/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "SSFS Photo archives"
+            ],
+            "de": [
+              "SGV Fotoarchiv"
+            ],
+            "fr": [
+              "Archives de la SSTP"
+            ]
+          },
+          "format": "text/html",
+          "language": [
+            "de"
+          ]
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10816.jp2/full/80,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10816.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://iiif.participatory-archives.ch/SGV_12N_10816/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "SGV_12N_10816"
+        ]
+      },
+      "height": 4603,
+      "width": 4426,
+      "items": [
+        {
+          "id": "https://iiif.participatory-archives.ch/SGV_12N_10816/canvas/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.participatory-archives.ch/SGV_12N_10816/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10816.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4603,
+                "width": 4426,
+                "service": [
+                  {
+                    "id": "https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10816.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://iiif.participatory-archives.ch/SGV_12N_10816/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://participatory-archives.ch/api/items/243737",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "PIA JSON-LD API"
+        ]
+      },
+      "format": "application/ld+json"
+    }
+  ]
+}
