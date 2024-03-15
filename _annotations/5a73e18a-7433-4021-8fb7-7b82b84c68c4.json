@@ -1,0 +1,48 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "nice",
+            "purpose": "commenting",
+            "creator": {
+                "id": "julsraemy",
+                "name": "Julien A. Raemy"
+            },
+            "created": "2024-03-15T08:50:08.079Z",
+            "modified": "2024-03-15T08:50:08.378Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "example tag",
+            "creator": {
+                "id": "julsraemy",
+                "name": "Julien A. Raemy"
+            },
+            "created": "2024-03-15T08:50:17.381Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2761.528076171875,1642.4422607421875,3781.535888671875,2465.0450439453125"
+        }
+    },
+    "id": "5a73e18a-7433-4021-8fb7-7b82b84c68c4.json",
+    "motivation": "commenting"
+}
