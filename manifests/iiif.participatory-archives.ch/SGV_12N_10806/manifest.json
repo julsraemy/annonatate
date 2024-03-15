@@ -1,19 +1,13 @@
 ---
-added: '2024-03-15 08:54:02.220208'
-thumbnail: https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10806.jp2/full/max/0/default.jpg
-title:
-- en:
-  - "[Transport von Baumst\xE4mmen mit Pferdeschlitten]"
-user: Julien A. Raemy
-
+layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://julsraemy.ch/annonatate/manifests/iiif.participatory-archives.ch/SGV_12N_10806/manifest.json",
+  "id": "{{ '/' | absolute_url }}manifests/iiif.participatory-archives.ch/SGV_12N_10806/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
-      "[Transport von Baumst\u00e4mmen mit Pferdeschlitten]"
+      "[Transport von Baumstämmen mit Pferdeschlitten]"
     ]
   },
   "metadata": [
@@ -25,7 +19,7 @@ user: Julien A. Raemy
       },
       "value": {
         "de": [
-          "[Transport von Baumst\u00e4mmen mit Pferdeschlitten]"
+          "[Transport von Baumstämmen mit Pferdeschlitten]"
         ]
       }
     },
@@ -86,26 +80,52 @@ user: Julien A. Raemy
     },
     "value": {
       "de": [
-        "Schweizerische Gesellschaft f\u00fcr Volkskunde (SGV)"
+        "Schweizerische Gesellschaft für Volkskunde (SGV)"
       ],
       "fr": [
-        "Socit\u00e9 Suisse des Traditions populaires (SSTP)"
+        "Socité Suisse des Traditions populaires (SSTP)"
       ],
       "it": [
-        "Societ\u00e0 Svizzera per le Tradizioni Popolari (SSTP)"
+        "Società Svizzera per le Tradizioni Popolari (SSTP)"
       ],
       "en": [
         "Swiss Society for Folklore Studies (SSFS)"
       ]
     }
   },
+  "thumbnail": [
+    {
+      "id": "https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10806.jp2/full/80,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10806.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://participatory-archives.ch/api/items/243727",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "PIA JSON-LD API"
+        ]
+      },
+      "format": "application/ld+json"
+    }
+  ],
   "provider": [
     {
       "id": "https://d-nb.info/gnd/1186091584",
       "type": "Agent",
       "label": {
         "de": [
-          "Schweizerische Gesellschaft f\u00fcr Volkskunde. Fotoarchiv"
+          "Schweizerische Gesellschaft für Volkskunde. Fotoarchiv"
         ]
       },
       "logo": [
@@ -143,20 +163,6 @@ user: Julien A. Raemy
           "language": [
             "de"
           ]
-        }
-      ]
-    }
-  ],
-  "thumbnail": [
-    {
-      "id": "https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10806.jp2/full/80,/0/default.jpg",
-      "type": "Image",
-      "format": "image/jpeg",
-      "service": [
-        {
-          "id": "https://sipi.participatory-archives.ch/SGV_12/SGV_12N_10806.jp2",
-          "type": "ImageService3",
-          "profile": "level2"
         }
       ]
     }
@@ -205,20 +211,12 @@ user: Julien A. Raemy
         {
           "id": "https://iiif.participatory-archives.ch/annotations/SGV_12N_10806-p1-list.json",
           "type": "AnnotationPage"
+        },
+        {
+          "id": "{{ '/' | absolute_url }}annotations/sgv-12n-10806-p1-list.json",
+          "type": "AnnotationPage"
         }
       ]
-    }
-  ],
-  "seeAlso": [
-    {
-      "id": "https://participatory-archives.ch/api/items/243727",
-      "type": "Dataset",
-      "label": {
-        "en": [
-          "PIA JSON-LD API"
-        ]
-      },
-      "format": "application/ld+json"
     }
   ]
 }
