@@ -1,0 +1,38 @@
+---
+canvas: "https://iiif.participatory-archives.ch/SGV_12N_10806/canvas/p1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "le dur hiver",
+            "purpose": "commenting",
+            "creator": {
+                "id": "julsraemy",
+                "name": "Julien A. Raemy"
+            },
+            "created": "2024-03-15T08:57:26.430Z",
+            "modified": "2024-03-15T08:57:27.816Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://julsraemy.ch/annonatate/manifests/iiif.participatory-archives.ch/SGV_12N_10806/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.participatory-archives.ch/SGV_12N_10806/canvas/p1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1166.6851806640625,1649.314208984375,2446.8106689453125,2082.36669921875"
+        }
+    },
+    "id": "44960dae-e9ed-44b5-80fe-96af5b8d9075.json",
+    "motivation": "commenting"
+}
